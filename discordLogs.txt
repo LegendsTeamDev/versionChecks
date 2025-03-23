@@ -1,0 +1,1 @@
+{"version":"1.0.1", "notes":"Code optimization. Аdded version check and made some improvements on debuging", "discordLink":"https://discord.gg/legendsroleplay"}
