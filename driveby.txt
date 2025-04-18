@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"Important Update: Final testing finished", "discordLink":"https://discord.gg/legendsroleplay"}
+{"version":"1.0.0", "notes":"Added Version Check", "discordLink":"https://discord.gg/legendsroleplay"}
