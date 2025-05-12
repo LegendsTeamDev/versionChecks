@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"Added Version Check", "changes:""Finished 1.0.0 of the resouse", "discordLink":"https://discord.gg/legendsroleplay"}
+{"version":"1.0.0", "notes":"Added Version Check", "changes":"Finished 1.0.0 of the resouse", "discordLink":"https://discord.gg/legendsroleplay"}
