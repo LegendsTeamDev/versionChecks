@@ -1,1 +1,0 @@
-{"version":"1.0.0", "notes":"Added Version Check", "discordLink":"https://discord.gg/legendsroleplay"}
