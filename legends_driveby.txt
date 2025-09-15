@@ -1,1 +1,1 @@
-{"version":"1.2.0", "notes":"Added Version Check", "changes":"Finished 1.0.0 of the resource", "discordLink":"https://discord.gg/lgnds"}
+{"version":"1.2.0", "notes":"Bug Fixes & Abuse Fixes", "changes":"Fixed numerous bugs and abuses join discord to read the full patch note", "discordLink":"https://discord.gg/lgnds"}
