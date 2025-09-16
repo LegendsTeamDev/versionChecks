@@ -1,1 +1,1 @@
-{"version":"2.0.0", "notes":"Major error fix", "changes":"Fixed and issue with ox_lib syntax error near </1>", "discordLink":"https://discord.gg/lgnds"}
+{"version":"2.0.1", "notes":"Major error fix", "changes":"Fixed and issue with ox_lib syntax error near </1>", "discordLink":"https://discord.gg/lgnds"}
