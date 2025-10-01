@@ -1,1 +1,1 @@
-{"version":"1.2.2", "notes":"Implementation of vehicle whitelisting", "changes":"Implemented a feature allowing you to whitelist or blacklist certain vehicles according to your needs. Global settings are still present if you wish to not use the whitelisting system.", "discordLink":"https://discord.gg/lgnds"}
+{"version":"1.2.3", "notes":"IMPORTANT UPDATE!", "changes":"Fixed issues with players being kicked out of vehicles when they lag or desync. Please update to this version if you are experiending such problems imnidiately!", "discordLink":"https://discord.gg/lgnds"}
