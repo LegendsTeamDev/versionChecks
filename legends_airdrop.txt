@@ -1,1 +1,1 @@
-{"version":"0.9.6", "notes":"Syncronization between all players", "changes":"Implemented server side validation when spawning props and npc's and everything is syncronized between all players now.", "discordLink":"https://discord.gg/lgnds"}
+{"version":"0.9.9", "notes":"Important!!! Syncronization, bug fixes and new features", "changes":"Syncronization between all players for a lot of things, bugs and secutiry breaches are now completely fixed and added new features for airdrop logic.", "discordLink":"https://discord.gg/lgnds"}
