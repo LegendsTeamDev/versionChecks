@@ -1,1 +1,1 @@
-{"version":"0.9.9", "notes":"Important!!! Syncronization, bug fixes and new features", "changes":"Syncronization between all players for a lot of things, bugs and secutiry breaches are now completely fixed and added new features for airdrop logic.", "discordLink":"https://discord.gg/lgnds"}
+{"version":"1.0.0", "notes":"Official Release", "changes":"Bug fixes for the official release version", "discordLink":"https://discord.gg/lgnds"}
