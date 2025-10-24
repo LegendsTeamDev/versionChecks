@@ -1,1 +1,1 @@
-{"version":"1.2.3", "notes":"IMPORTANT UPDATE!", "changes":"Fixed issues with players being kicked out of vehicles when they lag or desync. Please update to this version if you are experiending such problems imnidiately!", "discordLink":"https://discord.gg/lgnds"}
+{"version":"1.3.0", "notes":"QOL Features", "changes":"Added new features by customers requests -> Third person in driveby, disable shooting from vehicles or shoot from inside of vehicles in first person.", "discordLink":"https://discord.gg/lgnds"}
