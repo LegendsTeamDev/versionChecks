@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"AntiVDM Implementation", "changes":"Added a feature for AntiVDM inside of the safe zones that makes vehicles go trough players making them not able to be ran over by a vehicle in a safe zone", "discordLink":"https://discord.gg/lgnds"}
+{"version":"1.2.0", "notes":"Invincibility for players inside the safe zone", "changes":"Players inside the safe zone are now invincible to damage sources outside of the safe zone itself.", "discordLink":"https://discord.gg/lgnds"}
