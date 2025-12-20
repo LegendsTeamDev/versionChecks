@@ -1,1 +1,1 @@
-{"version":"1.2.0", "notes":"Invincibility for players inside the safe zone", "changes":"Players inside the safe zone are now invincible to damage sources outside of the safe zone itself.", "discordLink":"https://discord.gg/lgnds"}
+{"version":"1.2.1", "notes":"Minor Changes - Optional Update", "changes":"Moved entity protection settings into an editable file", "discordLink":"https://discord.gg/lgnds"}
