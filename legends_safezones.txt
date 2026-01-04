@@ -1,1 +1,1 @@
-{"version":"1.3.0", "notes":"Anti-cheat false ban prevention and resource is now restartable during runtime", "changes":"Read the full patch at our discord.", "discordLink":"https://discord.gg/lgnds"}
+{"version":"1.3.1", "notes":"AntiVDM Improvements & Fixes", "changes":"AntiVDM now triggers only while the vehicle is moving inside the safe zone to prevent glitches and bugs", "discordLink":"https://discord.gg/lgnds"}
