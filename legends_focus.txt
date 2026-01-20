@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"Official Release", "changes":"Finished 1.0.0 of the resource", "discordLink":"https://discord.gg/U5usNmmcSe"}
+{"version":"1.0.1", "notes":"Minor optimizations and changes", "changes":"Change keybind handling and minor optimizations changes", "discordLink":"https://discord.gg/U5usNmmcSe"}
