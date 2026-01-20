@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Configurable default keybinds and minor bug fixes", "changes":"The default keybind is now configurable in the config.lua and fixed and issue with the players ped standing while not aiming", "discordLink":"https://discord.gg/lgnds"}
+{"version":"2.0.1", "notes":"Configurable default keybinds and minor bug fixes", "changes":"The default keybind is now configurable in the config.lua and fixed and issue with the players ped standing while not aiming", "discordLink":"https://discord.gg/U5usNmmcSe"}
