@@ -1,1 +1,1 @@
-{"version":"1.2.0", "notes":"Optimzations and Improvementts", "changes":"Major update cutting CPU usage from 0.06-0.08 to 0.00-0.03 during runtime while mainting 0.00 idle", "discordLink":"https://discord.gg/lgnds"}
+{"version":"1.2.0", "notes":"Optimzations and Improvementts", "changes":"Major update cutting CPU usage from 0.06-0.08 to 0.00-0.03 during runtime while mainting 0.00 idle", "discordLink":"https://discord.gg/U5usNmmcSe"}
