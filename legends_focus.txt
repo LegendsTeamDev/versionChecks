@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Minor optimizations and changes", "changes":"Change keybind handling and minor optimizations changes", "discordLink":"https://discord.gg/U5usNmmcSe"}
+{"version":"1.0.2", "notes":"Fixed an issue with the zoom going 10x upon restart", "changes":"Zoom level is now reset upon resource stop preventing any visual glitches", "discordLink":"https://discord.gg/U5usNmmcSe"}
