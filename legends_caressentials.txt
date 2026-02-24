@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"New update", "changes":"Introducing street props deletion", "discordLink":"https://discord.gg/U5usNmmcSe"}
+{"version":"1.2.0", "notes":"Optimizations", "changes":"Major perforamce & optimizations update", "discordLink":"https://discord.gg/U5usNmmcSe"}
