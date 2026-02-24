@@ -1,1 +1,1 @@
-{"version":"1.3.2", "notes":"Zones migration & optimizations", "changes":"Migrated the zones handling to ox_lib's more optimized zones and removed polyzone as a dependacy", "discordLink":"https://discord.gg/U5usNmmcSe"}
+{"version":"1.3.3", "notes":"Bug fixes & New exports", "changes":"Fixed an issue with the bypass jobs not being able to deal weapon damage to players inside the safe zones + added new exports", "discordLink":"https://discord.gg/U5usNmmcSe"}
